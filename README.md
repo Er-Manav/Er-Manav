@@ -5,6 +5,8 @@ A passionate individual :smile: seeking a position in a growth-oriented company 
 I'm graduating in July 2023 and I'm interested in internship for software engineering roles. 
 
 Please feel free to get in touch with me via :email:Email at er.manavbansal@gmail.com.
+
+🌱 || Learning in progress...||
 <!--
 **Er-Manav/Er-Manav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
