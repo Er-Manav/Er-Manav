@@ -1,10 +1,20 @@
-### Hi there 👋
+## Hi, I'm Manav 👋
 
-A passionate individual :smile: seeking a position in a growth-oriented company where I can use my technical skills :computer: and leadership qualities to the upliftment of the company and personal growth.
+Software Engineer with 3+ years of experience building scalable web applications using React, Next.js, and AWS.
 
-I'm graduating in July 2023 and I'm interested in software engineering roles. 
+- 🔭 Currently working at Yamaha Motor Solutions India
+- ⚡ Focus: Scalable frontend systems, performance optimization, system design
+- 🤖 Leveraging AI tools (Copilot, Cursor, LLM workflows) to improve development velocity
+- 🌱 Currently strengthening Data Structures & System Design (Scaler)
 
-Please feel free to get in touch with me via :email:Email at er.manavbansal@gmail.com.
+### Tech Stack
+- **Frontend:** React, Next.js, TypeScript
+- **Backend/Cloud:** AWS (S3, Cognito, Lambda), REST APIs
+- **Tools:** Git, CI/CD, Confluence
+
+### Contact
+- 📧 er.manavbansal@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/manav-bansal
 
 🌱 || Learning in progress...||
 <!--
